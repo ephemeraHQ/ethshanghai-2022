@@ -14,5 +14,5 @@ We are excited to sponsor ETH Shanghai 2022. To help get you started, we've incl
 ## Bounties
 Below is the list of Gitcoin bounties we are sponsoring as part of ETH Shanghai 2022
 
-Web3 Messaging between Provably Connected Addresses using XMTP and CyberConnect
-https://github.com/xmtp-labs/ethshanghai-2022/issues/1
+[Web3 Messaging between Provably Connected Addresses using XMTP and CyberConnect](https://github.com/xmtp-labs/ethshanghai-2022/issues/1)
+
