@@ -1,4 +1,5 @@
-# Ethshanghai-2022
+# ETH Shanghai 2022
+
 We are excited to sponsor ETH Shanghai 2022. To help get you started, we've included a list of links helpful in building wallet to wallet messaging natively in web3 using XMTP.
 
 📚 [Read our docs](https://docs.xmtp.org/) on how start building with XMTP
