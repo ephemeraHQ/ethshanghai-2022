@@ -1,4 +1,4 @@
-# ETH Shanghai 2022
+# XMTP Labs x ETH Shanghai 2022 Virtual Hackathon
 
 We are excited to sponsor ETH Shanghai 2022. To help get you started, we've included a list of links helpful in building wallet to wallet messaging natively in web3 using XMTP.
 
